@@ -1,14 +1,15 @@
 body{
      background-repeat: repeat;
      background-image: url("https://image.freepik.com/free-vector/cat-cartoon-background_265-2147486960.jpg");
-     background-colour: #ffcccc;
+     background-color: #ffcccc;
 }
 
 h1{
      font-family: "Comic Sans MS", cursive, sans-serif;
-     colour: #ccccff;
+     color: #ccccff;
 }
 
 p{
      font-family: verdana;
+     color: #ccccff;
 }
