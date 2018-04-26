@@ -9,10 +9,15 @@ body{
 
 h1{
      font-family: "Comic Sans MS", cursive, sans-serif;
-     color: #ccccff;
+     color: #003399;
+}
+
+h1{
+     font-family: "Comic Sans MS", cursive, sans-serif;
+     color: #3366cc;
 }
 
 p{
      font-family: verdana;
-     color: #ccccff;
+     color: #0066cc;
 }
